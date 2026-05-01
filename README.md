@@ -10,7 +10,7 @@
 <img align='right' src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Python**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
